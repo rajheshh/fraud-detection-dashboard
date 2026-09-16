@@ -43,5 +43,4 @@ using time-based train/test splits, monitoring for concept drift).
 > Boosting model achieving 98% precision, then published an interactive dashboard
 > surfacing fraud trends by channel, country, and payment method for risk triage.
 
-Adjust the numbers once you've run it against your own scored output, and swap
-in a screenshot link once the Tableau dashboard is published.
+
