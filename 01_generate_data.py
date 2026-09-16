@@ -1,8 +1,4 @@
-"""
-01_generate_data.py
-Generates a synthetic e-commerce transactions dataset with realistic fraud patterns.
-Output: transactions.csv
-"""
+
 
 import numpy as np
 import pandas as pd
