@@ -1,9 +1,3 @@
-"""
-04_model_and_score.py
-Feature engineering + Gradient Boosting model to score transaction fraud risk.
-Output: transactions_scored.csv (ready for Tableau)
-"""
-
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
