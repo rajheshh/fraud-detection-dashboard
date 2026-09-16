@@ -1,7 +1,3 @@
--- 03_fraud_queries.sql
--- Investigation queries for the Fraud Detection & Risk Dashboard project.
--- Run against fraud.db (e.g. via `sqlite3 fraud.db < 03_fraud_queries.sql`)
-
 -- 1. Fraud rate by channel
 SELECT
     channel,
