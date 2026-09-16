@@ -1,9 +1,3 @@
-"""
-02_load_to_sqlite.py
-Loads transactions.csv into a SQLite database for SQL analysis.
-Output: fraud.db
-"""
-
 import sqlite3
 import pandas as pd
 
